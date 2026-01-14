@@ -20,9 +20,3 @@ marks= [77,93,88,56,84,85,96]
 sorted_marks = sorted(marks, reverse=True)
 print("Sorted marks (highest to lowest):", sorted_marks)
 
-
-
-# git status
-# git add .
-# git status 
-# git commit -m "Any things"
