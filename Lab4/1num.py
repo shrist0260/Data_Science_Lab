@@ -5,9 +5,9 @@
 marks= [77,93,88,56,84,85,96]
 
 # sort them in descending order
-# marks.sort(reverse=True)
+marks.sort(reverse=True)
 
-# print("Sorted marks (highest to lowest):",marks)
+print("Sorted marks (highest to lowest):",marks)
 
 
 
@@ -15,8 +15,8 @@ marks= [77,93,88,56,84,85,96]
 
 # by using sorted() function
 
-# marks = (93,88,56,84,85)
+# marks = [77,93,88,56,84,85,96]
 
-sorted_marks = sorted(marks, reverse=True)
-print("Sorted marks (highest to lowest):", sorted_marks)
+# sorted_marks = sorted(marks, reverse=True)
+# print("Sorted marks (highest to lowest):", sorted_marks)
 

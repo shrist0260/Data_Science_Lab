@@ -39,16 +39,23 @@
 paragraph = input("Enter paragraph: ")
 
 words = paragraph.split()
-
+unique_words = []
 word_freq = {}
 for w in words:
     if w in word_freq:
         word_freq[w] += 1
     else:
         word_freq[w] = 1
+        unique_words.appends(w)
 
-unique_words = sorted(word_freq.keys())
+# unique_words = sorted(word_freq.keys())
 
 print("Unique words:", unique_words)
 print("Total unique words:", len(unique_words))
 print("Word frequency:", word_freq)
+
+
+
+
+
+
