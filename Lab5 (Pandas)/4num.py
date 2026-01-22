@@ -5,7 +5,7 @@ import pandas as pd
 
 df=pd.read_csv("4numpy.csv")
 
-print(df)
+# print(df)
 print("Checking the null value")
 print(df.isnull())
 print("Replacing the null with the mean")

@@ -9,7 +9,7 @@ df=pd.read_csv("4numpy.csv")
 print("Detecting the duplicate value")
 print(df.duplicated(subset=['Name','Age','Marks']))
 
-print("REmoving the duplicate value")
+print("Removing the duplicate value")
 # print(df.drop_duplicates(subset=['Name','Age','Marks'], inplace=True))
 # print(df)
 

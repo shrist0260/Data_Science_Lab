@@ -4,10 +4,10 @@
 import pandas as pd
 
 students= {
-    "Name":["Ram","Shyam","Hari","Sita","Gita","Rita"],
-    "Age":[21,24,22,26,19,20],
-    "Marks":[85,79,88,95,57,74]
+    "Name":["Ram","Shyam","Hari","Sita","Gita","Rita","Mita"],
+    "Age":[21,24,22,26,19,20,22],
+    "Marks":[85,79,88,95,57,74,38]
 }
 df=pd.DataFrame(students)
 print(df.head(5))
-print(df.shape)
+print("Size",df.shape)
