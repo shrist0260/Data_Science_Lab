@@ -30,4 +30,4 @@
 ->[7num.py](https://github.com/shrist0260/Data_Science_Lab/blob/main/Lab5%20(Pandas)/7num.py)
 
 ### Creating Table and Joining table
-->[8num.py]((https://github.com/shrist0260/Data_Science_Lab/blob/main/Lab5%20(Pandas)/8num.py))
+->[8num.py](https://github.com/shrist0260/Data_Science_Lab/blob/main/Lab5%20(Pandas)/8num.py)
