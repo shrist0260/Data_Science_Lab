@@ -1,6 +1,5 @@
 # Calculate the correlation for the temperature vs ice-cream sales dataset.
 # Compare the covariance and correlation values.
-# Explain why correlation is easier to interpret.
 
 import pandas as pd
 import numpy as np
